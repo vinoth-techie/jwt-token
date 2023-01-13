@@ -1,0 +1,20 @@
+register test data
+{
+    "userid": "int54",
+    "username": "vino02",
+    "email": "vinoth@gmail.com",
+    "password": "hashpassword ",
+    "phoneno": "9080800423",
+    "userrole": "userrole"
+}
+
+
+
+login test data
+
+{
+    
+    "email": "vinoth@gmail.com",
+    "password": "hashpassword "
+    
+}
