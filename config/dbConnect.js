@@ -5,7 +5,6 @@ mongoose.set('strictQuery', true);
 mongoose.connect(process.env.DB_URL)
     .then(()=>{
         console.log('Connected to Database')
-        console.log("pr request")
     })
     .catch((err)=>{
         console.log('no connection')
