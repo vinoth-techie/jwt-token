@@ -6,6 +6,7 @@ mongoose.connect(process.env.DB_URL)
     .then(()=>{
         console.log('Connected to Database')
         console.log("pr request")
+        dfwjfijmfin
     })
     .catch((err)=>{
         console.log('no connection')
